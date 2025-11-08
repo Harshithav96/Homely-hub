@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # WSA HomelyHub Application
 
 **HomelyHub** is a full-stack **hotel booking web application** inspired by Airbnb, built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with payment integration via **Razorpay** and cloud image storage via **ImageKit**.  
@@ -103,13 +103,13 @@ REACT_APP_RAZORPAY_KEY=your_razorpay_key
 ```
 # Backend
 cd backend
-npm start
+npm run dev
 
 # Frontend
 cd ../frontend
-npm star
+npm run dev
 ```
-## 📄 License
-© 2023 WSA. All rights reserved.
-=======
+
+© 2025 WSA
+
 
